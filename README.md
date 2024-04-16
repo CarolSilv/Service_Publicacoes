@@ -6,7 +6,7 @@ Através dele é possível gerenciar publicações e os likes de uma determinada
 
 ## Stack utilizada
 
-- [PHP](https://www.php.net/),
+- [PHP](https://www.php.net/)
 - [Slim Framework](https://www.slimframework.com/docs/v3/)
 
 ## Rodando localmente
